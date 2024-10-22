@@ -1,4 +1,8 @@
-configparser==5.3.0
-PyMySQL==1.0.3
-PyPDF2==3.0.1
-shutils==0.1.0
+#configparser==5.3.0
+#PyMySQL==1.0.3
+#PyPDF2==3.0.1
+#shutils==0.1.0
+configparser
+PyMySQL
+PyPDF2
+shutils
